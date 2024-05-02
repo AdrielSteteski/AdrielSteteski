@@ -25,7 +25,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielSteteski)](https://github.com/anuraghazra/github-readme-stats)
 
 
-(https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)[AdrielSteteski]
+<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
+[AdrielSteteski](https://www.codewars.com/users/AdrielSteteski)
+
 ## 🔥 Habilidades
 
 <div style="flex-basis: 48%;">
