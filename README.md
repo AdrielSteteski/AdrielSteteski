@@ -23,7 +23,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielSteteski)](https://github.com/anuraghazra/github-readme-stats)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/AdrielSteteski)
-[![Bitcoin Price](https://example.com/bitcoin_chart.png)](https://example.com)
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/seu_usuario/seu_repositorio)
+
 
 
 
