@@ -23,7 +23,23 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielSteteski)](https://github.com/anuraghazra/github-readme-stats)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/AdrielSteteski)
-[![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/seu_usuario/seu_repositorio)
+**[![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/seu_usuario/seu_repositorio)**
+import requests
+
+# Função para obter o preço atual do Bitcoin
+def get_bitcoin_price():
+    response = requests.get("https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd")
+    data = response.json()
+    return data["bitcoin"]["usd"]
+
+# Obtendo o preço atual do Bitcoin
+bitcoin_price = get_bitcoin_price()
+
+# Construindo o URL do badge Shields.io
+badge_url = f"https://img.shields.io/badge/Bitcoin-{bitcoin_price}-ff9900?style=for-the-badge&logo=bitcoin&logoColor=white"
+
+print(badge_url)
+
 
 
 
