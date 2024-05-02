@@ -7,9 +7,9 @@
 
 <!-- Apresentação -->
 <p>
-  Olá! 👋 Meu nome é Chris, e sou um estudante apaixonado por Ciência de Dados do Brasil.
+  Olá! 👋 Meu nome é Adriel, e sou um estudante apaixonado por Ciência de Dados do Brasil.
 
-  - 🌱 Atualmente, estou focado em estudar Python para desenvolvimento web BackEnd.
+  - 🌱 Atualmente, estou focado em estudar Python para aprendizado de maquina.
 </p>
 
 <!-- Mais sobre mim -->
