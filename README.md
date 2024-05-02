@@ -19,9 +19,7 @@
 </details>
 
 <!-- Estatísticas do GitHub -->
-[![Estatísticas do GitHub de VariableBee](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
-
-[Ver Estatísticas detalhadas](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
+![Estatísticas do GitHub de VariableBee](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
 
 ## 🔥 Habilidades
 <!-- Habilidades: Linguagens de Programação -->
