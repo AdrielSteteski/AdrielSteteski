@@ -25,7 +25,7 @@
 
 <!-- Estatísticas do GitHub -->
 [Estatísticas do GitHub de VariableBee](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrielSteteski&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrielSteteski&hide=contribs,prs_icons=true&theme=gotham)
 
 <!-- Portfólio -->
 ## Portfólio:
