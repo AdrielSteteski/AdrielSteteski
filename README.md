@@ -22,6 +22,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrielSteteski&hide=contribs,prs_icons=true&theme=transparent)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielSteteski)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🔥 Habilidades
 
 <div style="flex-basis: 48%;">
