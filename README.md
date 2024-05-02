@@ -6,9 +6,9 @@
 
 <!-- Apresentação -->
 <p>
-  Olá! 👋 Meu nome é Adriel, e sou um estudante de aprendizado de maquina do Brasil.
+  Olá! 👋 Meu nome é Adriel, e sou um estudante de aprendizado de máquina do Brasil.
 
-  - 🌱 Atualmente, estou focado em estudar Python Mais pretendo expandir as linguagem.
+  - 🌱 Atualmente, estou focado em estudar Python, mas pretendo expandir para outras linguagens.
 </p>
 
 <!-- Mais sobre mim -->
@@ -16,12 +16,12 @@
   <summary>👨‍💻 Mais sobre mim</summary>
 
   - 💬 Tenho 14 anos e moro no Brasil. Sou intermediário em inglês e estou estudando aprendizado de máquina.
+</details>
 
-  
 <!-- Estatísticas do GitHub -->
-[Estatísticas do GitHub de VariableBee](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=transparent )
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrielSteteski&hide=contribs,prs_icons=true&theme=transparent )
+[![Estatísticas do GitHub de VariableBee](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
 
+[Ver Estatísticas detalhadas](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
 
 ## 🔥 Habilidades
 <!-- Habilidades: Linguagens de Programação -->
