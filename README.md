@@ -22,12 +22,6 @@
 [Estatísticas do GitHub de VariableBee](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrielSteteski&hide=contribs,prs_icons=true&theme=gotham)
 
-<!-- Portfólio -->
-## Portfólio:
-- [Python - Análise exploratória de dados](https://github.com/VariableBee/EDA_Loggi)
-- [Google Data Studio - Painel Interativo COVID-19](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Consulta e análise de dados com AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Sistema de cadastro e consulta](https://github.com/VariableBee/Cartorio)
 
 <!-- GIF -->
 <p align="left">
@@ -45,10 +39,4 @@
   <div style="flex-basis: 48%;">
     <h3>Ferramentas e Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  </div>
-  
-  <!-- Habilidades: Bibliotecas -->
-  <div style="flex-basis: 48%;">
-    <h3>Bibliotecas</h3>
-    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </div>
